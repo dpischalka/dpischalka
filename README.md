@@ -1,7 +1,7 @@
 ### Hello!
 My name is Dmitry Pischalka. \
 I'm:
-* Senior Front-End Developer
+* Front-End Developer
 * Geek
 * Musician.
 
